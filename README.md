@@ -1,4 +1,4 @@
-# rm_all_target.py
+# rm_all_targets.py
 A python script to remove all Rust targets in each sub directory interactively.
 
 # Usage
